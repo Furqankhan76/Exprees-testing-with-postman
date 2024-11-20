@@ -1,0 +1,5 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"3.670\"}","timestamp":"2024-11-20T12:21:06.686Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.423\"}","timestamp":"2024-11-20T12:21:10.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.252\"}","timestamp":"2024-11-20T12:21:12.630Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made","timestamp":"2024-11-20T12:23:45.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"2.677\"}","timestamp":"2024-11-20T12:23:45.288Z"}
